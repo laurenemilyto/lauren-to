@@ -1,4 +1,4 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7zGrwzRYqKo42hWYc5NC--g__4rDAPC_drw&usqp=CAU
+![image]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7zGrwzRYqKo42hWYc5NC--g__4rDAPC_drw&usqp=CAU
 
 ## Hi there, I'm Lauren :v:
 
