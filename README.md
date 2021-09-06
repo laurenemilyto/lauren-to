@@ -2,9 +2,9 @@
 
 ## Hi there! :wave: 
 
-Data scientist who enjoys statistics and using Python and SQL to wrangle data.
+Data scientist who enjoys using statistics, Python and SQL to wrangle data.
 
-I am currently learning about Machine Learning and Natural Language Processing. 
+Lifelong learner currently studying Web Development and Machine Learning. 
 
 Feel free to reach out to me at laurenemilyto@gmail.com
 
