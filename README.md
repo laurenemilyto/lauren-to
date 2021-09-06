@@ -4,7 +4,7 @@
 
 Data scientist who enjoys using statistics, Python and SQL to wrangle data.
 
-Lifelong learner currently studying Web Development and Machine Learning. 
+Lifelong learner currently studying Machine Learning and Web Development. 
 
 Feel free to reach out to me at laurenemilyto@gmail.com
 
