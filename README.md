@@ -2,11 +2,11 @@
 
 ## Hi there! :wave: 
 
-Data scientist who enjoys using statistics, Python and SQL to wrangle data. 
+Data scientist who enjoys using statistics, Python and SQL to wrangle data. :bar_chart:
 
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
 
-Diverse background in analytics, user experience, end-user training and management consulting. 
+Apply a diverse background in analytics, user experience, end-user training and management consulting to projects. 
 
 Hobbies: 
 - reading :books:
