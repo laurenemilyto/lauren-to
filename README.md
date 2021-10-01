@@ -2,7 +2,7 @@
 
 ## Hi there! :wave: 
 
-Data scientist who enjoys using statistics, Python and SQL to wrangle data and drive continuous improvement. 
+Data scientist who enjoys using statistics, Python and SQL to wrangle data. 
 
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
 
