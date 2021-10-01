@@ -6,7 +6,7 @@ Data scientist who enjoys using statistics, Python and SQL to wrangle data and d
 
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
 
-Diverse background in analytics, user experience design, end-user training and management consulting. 
+Diverse background in analytics, user experience, end-user training and management consulting. 
 
 In my freetime, growing fruits and veggies :tomato:, playing tennis :tennis:, and catching live music :guitar:. 
 
