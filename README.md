@@ -2,11 +2,13 @@
 
 ## Hi there! :wave: 
 
-Data scientist who enjoys using statistics, Python and SQL to wrangle data. 
+Data scientist who enjoys using statistics, Python and SQL to wrangle data and drive incremental, continuous improvements. 
+
+Background in analytics, user experience design, end-user training and management consulting. 
 
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
 
-Growing fruits and veggies, playing tennis, and catching live music in my freetime. 
+Growing fruits and veggies :tomato:, playing tennis :tennis:, and catching live music :guitar: in my freetime. 
 
 Feel free to reach out to me at laurenemilyto@gmail.com
 
