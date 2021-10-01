@@ -6,8 +6,6 @@ Data scientist who enjoys using statistics, Python and SQL to wrangle data. :bar
 
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
 
-Apply a diverse background in analytics, user experience, end-user training and management consulting to projects. 
-
 Hobbies: 
 - reading :books:
 - growing fruits and veggies :tomato: 
