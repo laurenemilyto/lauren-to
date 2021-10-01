@@ -2,11 +2,11 @@
 
 ## Hi there! :wave: 
 
-Data scientist who enjoys using statistics, Python and SQL to wrangle data and drive incremental, continuous improvements. 
-
-Background in analytics, user experience design, end-user training and management consulting. 
+Data scientist who enjoys using statistics, Python and SQL to wrangle data and drive continuous improvement. 
 
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
+
+Diverse background in analytics, user experience design, end-user training and management consulting. 
 
 Growing fruits and veggies :tomato:, playing tennis :tennis:, and catching live music :guitar: in my freetime. 
 
