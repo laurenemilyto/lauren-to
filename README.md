@@ -8,11 +8,12 @@ Lifelong learner currently studying Javascript and Machine Learning deployment.
 
 Diverse background in analytics, user experience, end-user training and management consulting. 
 
-In my freetime: 
-- growing fruits and veggies :tomato:
+Find me in my freetime: 
+- reading :books:
+- growing fruits and veggies :tomato: 
 - playing tennis :tennis:
 - catching live music :guitar:
-- exploring Savannah where I recently moved 🌴
+- exploring Savannah 🌴
 
 Feel free to reach out to me at laurenemilyto@gmail.com
 
