@@ -6,7 +6,7 @@ Data scientist who enjoys using statistics, Python and SQL to wrangle data.
 
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
 
-Growing fruits and veggies, playing tennis, and exploring Savannah (recent move) in my freetime. 
+Growing fruits and veggies, playing tennis, and catching live music in my freetime. 
 
 Feel free to reach out to me at laurenemilyto@gmail.com
 
