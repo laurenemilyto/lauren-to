@@ -8,7 +8,7 @@ Lifelong learner currently studying Javascript and Machine Learning deployment.
 
 Hobbies: 
 - reading :books:
-- vegetable gardening :tomato: 
+- gardening :tomato: 
 - playing tennis :tennis:
 - catching live music :guitar:
 
