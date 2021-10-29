@@ -7,7 +7,7 @@ Data scientist who enjoys using statistics, Python and SQL to wrangle data. :bar
 Lifelong learner currently studying Javascript and Machine Learning deployment. 
 
 Hobbies: 
-- growing produce :tomato: 
+- gardening :tomato: 
 - playing tennis :tennis:
 - catching live music :guitar:
 
