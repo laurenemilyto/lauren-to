@@ -4,7 +4,7 @@
 
 Data scientist who enjoys using statistics, Python and SQL to wrangle data. :bar_chart:
 
-Lifelong learner currently studying Machine Learning and ML deployment. 
+Currently studying Machine Learning and ML deployment. 
 
 Hobbies: 
 - gardening :tomato: 
