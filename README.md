@@ -16,4 +16,4 @@ Hobbies:
 Feel free to reach out to me at laurenemto@gmail.com
 
 ## Technologies & Tools
-![jupyter-notebook](https://i.pinimg.com/originals/93/62/7d/93627d1bb6bbf3a26693d74023e67264.jpg)
+(![image](https://user-images.githubusercontent.com/75763314/140623870-d3282a7c-99f9-4ab8-8f13-fdff7cf894cf.png))
