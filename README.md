@@ -16,4 +16,4 @@ Hobbies:
 Feel free to reach out to me at laurenemto@gmail.com
 
 ## Technologies & Tools
-(![image](https://user-images.githubusercontent.com/75763314/140623870-d3282a7c-99f9-4ab8-8f13-fdff7cf894cf.png))
+![image](https://user-images.githubusercontent.com/75763314/140623917-1eaa5f93-d145-4647-bfd6-69e9d456013e.png)
