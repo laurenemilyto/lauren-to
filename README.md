@@ -16,4 +16,6 @@ Hobbies:
 Feel free to reach out to me at laurenemto@gmail.com
 
 ## Technologies & Tools
-![image](https://user-images.githubusercontent.com/75763314/140623917-1eaa5f93-d145-4647-bfd6-69e9d456013e.png)
+![image](https://user-images.githubusercontent.com/75763314/140623938-c2a69986-67f5-4e0d-89ae-bdd55b56d565.png)
+
+Tech Organizations: TechSav, Nashville Data Nerds, Women in Technology, Search Discovery Education Community 
