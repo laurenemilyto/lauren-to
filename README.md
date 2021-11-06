@@ -18,4 +18,5 @@ Feel free to reach out to me at laurenemto@gmail.com
 ## Technologies & Tools
 ![image](https://user-images.githubusercontent.com/75763314/140623938-c2a69986-67f5-4e0d-89ae-bdd55b56d565.png)
 
-Tech Organizations: TechSav, Nashville Data Nerds, Women in Technology, Search Discovery Education Community 
+## Tech Organizations
+TechSav, Nashville Data Nerds, Women in Technology, Search Discovery Education Community 
