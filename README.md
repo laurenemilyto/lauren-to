@@ -11,6 +11,8 @@ Hobbies:
 - running & tennis :tennis:
 - playing guitar :guitar:
 
+Check out my portfolio @https://laurenemilyto.github.io/ 
+
 Feel free to reach out to me at laurenemto@gmail.com
 
 ## Technologies & Tools
