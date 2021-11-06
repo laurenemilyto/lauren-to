@@ -6,12 +6,12 @@ Data scientist who enjoys using statistics, Python and SQL to wrangle data. :bar
 
 Currently studying Machine Learning and ML deployment. 
 
+Check out my portfolio [here](https://laurenemilyto.github.io/)!
+
 Hobbies: 
 - gardening :tomato: 
 - running & tennis :tennis:
 - playing guitar :guitar:
-
-Check out my portfolio [here](https://laurenemilyto.github.io/)!
 
 Feel free to reach out to me at laurenemto@gmail.com
 
