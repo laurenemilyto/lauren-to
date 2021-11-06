@@ -4,14 +4,14 @@
 
 Data scientist who enjoys using statistics, Python and SQL to wrangle data. :bar_chart:
 
-Lifelong learner currently studying Javascript and Machine Learning deployment. 
+Lifelong learner currently studying Machine Learning and ML deployment. 
 
 Hobbies: 
 - gardening :tomato: 
-- playing tennis :tennis:
-- catching live music :guitar:
+- running & tennis :tennis:
+- playing guitar :guitar:
 
-Feel free to reach out to me at laurenemilyto@gmail.com
+Feel free to reach out to me at laurenemto@gmail.com
 
 ## Technologies & Tools
 ![jupyter-notebook](https://i.pinimg.com/originals/93/62/7d/93627d1bb6bbf3a26693d74023e67264.jpg)
